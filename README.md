@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nabilla Aida
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Game Developer
 - 🌱 I’m currently learning at Atma Jaya University
-- 💞️ I’m looking to collaborate on Cyber Security Programmer
+- 💞️ I’m looking to collaborate on Game Developer
 - 📫 How to reach me ...
 
 <!---

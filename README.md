@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Nabilla
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Web Developer
